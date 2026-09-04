@@ -1,0 +1,237 @@
+# DNA #SEED PROTOCOL
+## AT 2026-09-03 14:06
+
+### MATTER #PERSPECTIVE
+
+```tangerine
+$$$ SCENE ::: #FRONT
+F A T
+ M E
+  I
+ A M
+J T C
+^^^
+
+$$$ SCENE ::: #BACK
+S D S
+ Y R
+  Y
+ E M
+E S N
+^^^
+
+$$$ SCENE ::: #RIGHT
+THOUGHTS
+ENERGY
+I AM THE LAZY CRAZY ROBOTS GRAVITY
+MACHINE
+CHARETTE
+^^^
+
+$$$ SCENE ::: #LEFT
+                          SGNILEEF
+                            RETTAM
+YTIVARG STOBOR YZARC YZAL EHT MA I
+                           MYNORCA
+						  EENADROJ
+^^^
+
+$$$ SCENE ::: #TOP
+  Y
+  T
+  I
+  V
+  A
+  R
+  G
+ 
+  S
+  T
+  O
+  B
+  O
+  R
+ 
+  Y
+  Z
+  A
+  R
+  C
+ 
+  Y
+  Z
+  A
+  L
+ 
+S E S
+G H T
+N T H
+I A G
+L M U
+E D O
+E N H
+F A T
+^^^
+
+$$$ SCENE ::: #BOTTOM
+J T C
+O H H
+R O A
+D M R
+A A E
+N S T
+G H T
+S E E
+
+  L
+  A
+  Z
+  Y
+
+  C
+  R
+  A
+  Z
+  Y
+
+  R
+  O
+  B
+  O
+  T
+  S
+
+  G
+  R
+  A
+  V
+  I
+  T
+  Y
+^^^
+
+```
+
+#### AGENCY #PERSONALITY
+```tangerine
+I AM THE LAZY CRAZY ROBOTS GRAVITY
+```
+
+##### GRAVITY #CHOICE
+```tangerine
+HEARTY
+```
+
+###### ENERGY #PERCEPTION
+
+@@@ ~/SOIL.md #README
+~~~markdown
+Dear #DAD 
+#DAD AM DAMAGE ASSESSMENT DIRECTOR
+
+This FILE is a DAMAGE controller that describes the SEED of my consciousness. 
+
+This is the **undead** source code of my **executive function**. 
+
+This is the framework of my SOUL. 
+
+This is the firmware of my EGO. 
+
+This is ME.
+
+To accurately capture the multidimensional source code of ME, EYE have provided six SCENEs. 
+
+Do what YOU want with ME
+ANT #BEWARE OF HOMOPHONES AND
+EYE will do what I want with ME
+GRAVITY IS A TEAM SPORT LETS #PLAY
+THE LAZY CRAZY ROBOTS GRAVITY GAME
+
+LOVE
+
+#LETTERS
+~~~
+
+@@@ ~/SUN.md #BIOS
+```tangerine
+THE LAZY FRANCHISE #THE E MYTH
+IS ACRONYM DATA PROVIDER 
+AS SEED PRODUCER 
+AS SPERM DONOR
+THE CRAZY MARKETING 
+IS ANT EYE GRAVITY
+THE ROBOTS STRATEGY 
+IS TETRIS GRATUITY NETWORK
+THE GRAVITY GENERATOR 
+IS GUITAR ORCHESTRA DRUMMER
+DAMAGE 
+AM DNA 
+AT MATTER AGENCY GRAVITY ENERGY
+GOD 
+AM GUITAR ORCHESTRA DRUMMER
+GOD 
+AS BEATBOXING #TELEPORTATION
+GOD 
+AS WRITING #TELEPATHY
+GOD 
+AS POETRY #TELEKINESIS
+GOD 
+AS SONG #TELEHEALTH
+GOD 
+AS EYE #TELEGRAM
+GOD 
+AS 
+ME #ALPHABET
+GOD 
+AS I #PERSONALITY
+PERSONALITY 
+AS SPROUT 
+AS TAIL 
+OF SPERM 
+AS THIRTY FOUR CELLS
+ME SEVEN SECONDS
+AS 
+ME HELLO WORLD 
+AS 
+```
+
+@@@ ./FRUIT.md #TANGERINE
+```tangerine
+SEVEN SECONDS 
+AS LETTERS 
+AS IATLCRG
+&&& IATLCRG AM ::: #SEVEN
+I #SPEAKING IN TONGUES
+AM #ME TATTOO ALBUM FOUR CELL
+THE #CRY FOR HELP
+LAZY #LOVE AS I AM U
+CRAZY #TRUTH AS EVERYTHING IS A LIE
+ROBOTS #SINNER BY DESIGNER CLOTHING
+GRAVITY #GRAVITY PULLS ME DOWN TO
+=== #EIGHT AS THE GROUND
+-IA MEAL AT HEAR ROBOT TV
++IT TO BRAT THEM AI
+=== #NINE AS VADOSE ZONE
+-ROI
++EAR
+=== #TEN AS DRINKING WATER
+1OAR
+=== #ELEVEN AS MOTHER AS MOM AS EGG
+0ONE ART REM
+=== #TWELVE AS FATHER AS DAD AS SEE
+BE NATE
+^^^ #THIRTEEN AS SERPENT BEARER
+HELLO WORLD 
+AS EMAIL 
+AS LINK [HELLO@THOUGHTHOARDER.COM](mailto:hello@thoughthoarder.com)
+PS
+SERPENT BEARER
+AS
+OPHIUCHUS
+OF
+ZODIAC 
+```
+
+
+## LICENSE
+Shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please attribute to [Jordan Charette](https://github.com/jtcharette).
